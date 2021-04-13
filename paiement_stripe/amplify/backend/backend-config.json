@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "paiementstripe6f315b33": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

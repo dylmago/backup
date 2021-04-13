@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>265619665209-a0kfg8v507i9pjq43kh2rpmqlegmdlqu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.265619665209-a0kfg8v507i9pjq43kh2rpmqlegmdlqu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChRUJea99ZmvHZe0gjC0YgEJ-aYHJ6x8o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>265619665209</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.paiementStripe</string>
+	<key>PROJECT_ID</key>
+	<string>paiementstripeflutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>paiementstripeflutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:265619665209:ios:f5c2ed0aa6f0d5f37578e8</string>
+</dict>
+</plist>

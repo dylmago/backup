@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-paiementstripe-dev-160613-authRole",
+      "UnauthRoleArn": "arn:aws:iam::475260984515:role/amplify-paiementstripe-dev-160613-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::475260984515:role/amplify-paiementstripe-dev-160613-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-paiementstripe-dev-160613-deployment",
+      "UnauthRoleName": "amplify-paiementstripe-dev-160613-unauthRole",
+      "StackName": "amplify-paiementstripe-dev-160613",
+      "StackId": "arn:aws:cloudformation:eu-west-1:475260984515:stack/amplify-paiementstripe-dev-160613/ab7fa4b0-7a9f-11eb-a120-02b92ccedb3d",
+      "AmplifyAppId": "d5fymzceeoq48"
+    },
+    "categories": {
+      "auth": {
+        "paiementstripe6f315b33": {}
+      }
+    }
+  }
+}
